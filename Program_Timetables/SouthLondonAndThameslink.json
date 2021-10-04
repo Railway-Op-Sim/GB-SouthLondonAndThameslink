@@ -1,0 +1,26 @@
+{
+  "startTime":"06:00",
+  "services": [
+    {
+      "ref":"9H03",
+      "description":"Clapham Junction to Dalston Junction",
+      "startSpeed":70,
+      "maxSpeed":121,
+      "mass":200,
+      "maxBrake":149,
+      "power":1500,
+      "increment":1,
+      "events": [
+        "23:54;Snt;133-60 133-59",
+        "23:55;23:55;Clapham High Street",
+        "00:00;00:00;Denmark Hill",
+        "00:02;00:02;Peckham Rye",
+        "00:04;00:04;Queens Road Peckham",
+        "00:06;Fer;109-N13"
+      ],
+      "times": [
+        "06:13","06:28","06:43","06:58","07:13","07:28","07:43"
+      ]
+    }
+  ]
+}
