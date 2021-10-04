@@ -11,12 +11,12 @@
       "power":1500,
       "increment":1,
       "events": [
-        "23:53;Snt;133-60 133-59",
-        "23:54;23:55;Clapham High Street",
+        "23:54;Snt;133-60 133-59",
+        "23:55;23:55;Clapham High Street",
         "00:00;00:00;Denmark Hill",
-        "00:03;00:03;Peckham Rye",
-        "00:06;00:06;Queens Road Peckham",
-        "00:08;Fer;109-N13"
+        "00:02;00:02;Peckham Rye",
+        "00:04;00:04;Queens Road Peckham",
+        "00:05;Fer;109-N13"
       ],
       "times": [
         "06:13","06:28",{"time":"06:43","description":"Battersea Park to Dalston Junction"},"06:58","07:13","07:28","07:43","07:58","08:13","08:28",
@@ -33,12 +33,12 @@
       "power":1500,
       "increment":1,
       "events": [
-        "23:52;Snt;109-N14 110-N14",
-        "23:54;23:54;Queens Road Peckham",
-        "23:57;23:57;Peckham Rye",
+        "23:55;Snt;109-N14 110-N14",
+        "23:56;23:56;Queens Road Peckham",
+        "23:58;23:58;Peckham Rye",
         "00:00;00:00;Denmark Hill",
-        "00:05;00:06;Clapham High Street",
-        "00:07;Fer;134-60"
+        "00:05;00:05;Clapham High Street",
+        "00:06;Fer;134-60"
       ],
       "times": [
         {"time":"06:18","description":"Highbury & Islington to Clapham Junction"},"06:48","07:03","07:18","07:33","07:48","08:03","08:17","08:33",
