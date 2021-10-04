@@ -22,6 +22,28 @@
         "06:13","06:28",{"time":"06:43","description":"Battersea Park to Dalston Junction"},"06:58","07:13","07:28","07:43","07:58","08:13","08:28",
         "08:43","08:58","09:13","09:28","09:43","09:58","10:13","10:28","10:43","10:58","11:13","11:28","11:43","11:58"
       ]
+    },
+    {
+      "ref":"9G02",
+      "description":"Dalston Junction to Clapham Junction",
+      "startSpeed":70,
+      "maxSpeed":121,
+      "mass":200,
+      "maxBrake":149,
+      "power":1500,
+      "increment":1,
+      "events": [
+        "23:52;Snt;109-N14 110-N14",
+        "23:54;23:54;Queens Road Peckham",
+        "23:57;23:57;Peckham Rye",
+        "00:00;00:00;Denmark Hill",
+        "00:05;00:06;Clapham High Street",
+        "00:07;Fer;134-60"
+      ],
+      "times": [
+        {"time":"06:18","description":"Highbury & Islington to Clapham Junction"},"06:48","07:03","07:18","07:33","07:48","08:03","08:17","08:33",
+        "08:52","09:07","09:18","09:37","09:52","10:07","10:22","10:37","10:52","11:07","11:22","11:37","11:52"
+      ]
     }
   ]
 }
