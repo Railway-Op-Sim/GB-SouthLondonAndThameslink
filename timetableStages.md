@@ -9,9 +9,9 @@
 - TL from Blackfriars (https://www.realtimetrains.co.uk/search/detailed/gb-nr:DMK/from/gb-nr:BFR/2021-10-04/0600-1200?stp=WVS&show=all&order=wtt)
 
 ## Herne Hill
-- SE passes (https://www.realtimetrains.co.uk/search/detailed/gb-nr:HNH/2021-10-04/0600-1200?stp=WVS&show=pass&order=wtt)
-- SE from Victoria (https://www.realtimetrains.co.uk/search/detailed/gb-nr:HNH/from/gb-nr:VIC/2021-10-04/0600-1200?stp=WVS&show=all&order=wtt)
-- SE to Victoria (https://www.realtimetrains.co.uk/search/detailed/gb-nr:HNH/to/gb-nr:VIC/2021-10-04/0600-1200?stp=WVS&show=call&order=wtt)
+- SE passes DONE
+- SE from Victoria DONE
+- SE to Victoria DONE
 - TL from Blackfriars (https://www.realtimetrains.co.uk/search/detailed/gb-nr:HNH/from/gb-nr:BFR/2021-10-04/0600-1200?stp=WVS&show=pax-calls&order=wtt)
 - TL to Blackfriars (https://www.realtimetrains.co.uk/search/detailed/gb-nr:HNH/to/gb-nr:BFR/2021-10-04/0600-1200?stp=WVS&show=pax-calls&order=wtt)
 
