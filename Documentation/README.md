@@ -9,12 +9,12 @@ You could include:
 
 ## Simulation
 
-*This section describes the timetable*
+The timetable runs from 0558 to about 1200.
 
-You could include:
-- Where services go to and from.
-- How frequent the services are.
-- Any tips for operating the route.
+### Some tips for Operation
+
+- Check SE services via Nunhead as some go via Clapham High Street and on the LO lines.
+- Double check which element is required for the Wandsworth portal, some SE services need the central (reversible) portal.
 
 ## Development
 
