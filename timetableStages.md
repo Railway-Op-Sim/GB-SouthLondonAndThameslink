@@ -20,8 +20,8 @@
 - SN to Bridge DONE
 
 ## Crystal Palace
-- SN from West Croydon (https://www.realtimetrains.co.uk/search/detailed/gb-nr:CYP/from/gb-nr:WCY/2021-10-04/0600-1200?stp=WVS&show=all&order=wtt&toc=SN)
-- SN to West Croydon (https://www.realtimetrains.co.uk/search/detailed/gb-nr:CYP/to/gb-nr:WCY/2021-10-04/0600-1200?stp=WVS&show=all&order=wtt&toc=SN)
+- SN from West Croydon DON
+- SN to West Croydon DONE
 - LO from Sydenham (https://www.realtimetrains.co.uk/search/detailed/gb-nr:CYP/from/gb-nr:SYD/2021-10-04/0600-1200?stp=WVS&show=all&order=wtt&toc=LO)
 - LO to Sydenham (https://www.realtimetrains.co.uk/search/detailed/gb-nr:CYP/to/gb-nr:SYD/2021-10-04/0600-1200?stp=WVS&show=all&order=wtt&toc=LO)
 
