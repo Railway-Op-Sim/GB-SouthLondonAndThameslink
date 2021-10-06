@@ -1,0 +1,8 @@
+rly_file = "SouthLondonAndThameslink.rly"
+ttb_files = [ "SouthLondonAndThameslink.ttb",]
+ssn_files = []
+country_code = "GB"
+name = ""
+description = ""
+display_name = "Southlondonandthameslink"
+author = "Daniel Gill"
