@@ -1,4 +1,4 @@
-# Timetable Plans
+# Timetable Plan
 
 ## Denmark Hill
 - LO to Clapham Junction DONE
@@ -12,8 +12,8 @@
 - SE to Victoria DONE
 
 ## Blackfriars
-- TL to Bridge (https://www.realtimetrains.co.uk/search/detailed/gb-nr:BFR/to/gb-nr:LBG/2021-10-11/0600-1200?stp=WVS&show=all&order=wtt)
-- TL from Bridge (https://www.realtimetrains.co.uk/search/detailed/gb-nr:BFR/from/gb-nr:LBG/2021-10-11/0600-1200?stp=WVS&show=all&order=wtt)
+- TL to Bridge DONE
+- TL from Bridge DONE
 - TL to Herne Hill (https://www.realtimetrains.co.uk/search/detailed/gb-nr:BFR/from/gb-nr:HNH/2021-10-11/0600-1200?stp=WVS&show=all&order=wtt)
 - TL from Herne Hill (https://www.realtimetrains.co.uk/search/detailed/gb-nr:BFR/to/gb-nr:HNH/2021-10-11/0600-1200?stp=WVS&show=all&order=wtt)
 - TL to Denmark Hill (https://www.realtimetrains.co.uk/search/detailed/gb-nr:BFR/to/gb-nr:DMK/2021-10-11/0600-1200?stp=WVS&show=all&order=wtt)
