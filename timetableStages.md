@@ -5,15 +5,19 @@
 - LO from Clapham Junction DONE
 - SE to Victoria DONE
 - SE from Victoria DONE
-- TL to Blackfriars (https://www.realtimetrains.co.uk/search/detailed/gb-nr:DMK/to/gb-nr:BFR/2021-10-04/0600-1200?stp=WVS&show=all&order=wtt)
-- TL from Blackfriars (https://www.realtimetrains.co.uk/search/detailed/gb-nr:DMK/from/gb-nr:BFR/2021-10-04/0600-1200?stp=WVS&show=all&order=wtt)
 
 ## Herne Hill
 - SE passes DONE
 - SE from Victoria DONE
 - SE to Victoria DONE
-- TL from Blackfriars (https://www.realtimetrains.co.uk/search/detailed/gb-nr:HNH/from/gb-nr:BFR/2021-10-04/0600-1200?stp=WVS&show=pax-calls&order=wtt)
-- TL to Blackfriars (https://www.realtimetrains.co.uk/search/detailed/gb-nr:HNH/to/gb-nr:BFR/2021-10-04/0600-1200?stp=WVS&show=pax-calls&order=wtt)
+
+## Blackfriars
+- TL to Bridge (https://www.realtimetrains.co.uk/search/detailed/gb-nr:BFR/to/gb-nr:LBG/2021-10-11/0600-1200?stp=WVS&show=all&order=wtt)
+- TL from Bridge (https://www.realtimetrains.co.uk/search/detailed/gb-nr:BFR/from/gb-nr:LBG/2021-10-11/0600-1200?stp=WVS&show=all&order=wtt)
+- TL to Herne Hill (https://www.realtimetrains.co.uk/search/detailed/gb-nr:BFR/from/gb-nr:HNH/2021-10-11/0600-1200?stp=WVS&show=all&order=wtt)
+- TL from Herne Hill (https://www.realtimetrains.co.uk/search/detailed/gb-nr:BFR/to/gb-nr:HNH/2021-10-11/0600-1200?stp=WVS&show=all&order=wtt)
+- TL to Denmark Hill (https://www.realtimetrains.co.uk/search/detailed/gb-nr:BFR/to/gb-nr:DMK/2021-10-11/0600-1200?stp=WVS&show=all&order=wtt)
+- TL from Denmark Hill (https://www.realtimetrains.co.uk/search/detailed/gb-nr:BFR/from/gb-nr:DMK/2021-10-11/0600-1200?stp=WVS&show=all&order=wtt)
 
 ## Tulse Hill
 - SN from Bridge DONE
