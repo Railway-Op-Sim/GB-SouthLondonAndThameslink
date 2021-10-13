@@ -777,6 +777,32 @@
       "times": [
         "06:17","06:32","06:47","07:02","07:17","07:32","07:47","08:03","08:17","08:33","08:47","09:02","09:17","09:32","09:47","10:02","10:17","10:32","10:47","11:02","11:17","11:32","11:47"
       ]
+    },
+    {
+      "ref":"2H06",
+      "description":"Crystal Palace to London Bridge",
+      "startSpeed":0,
+      "maxSpeed":161,
+      "mass":264,
+      "maxBrake":198,
+      "power":2000,
+      "increment":1,
+      "events": [
+        "05:58;Snt;193-N3 192-N3",
+        "06:23;Crystal Palace",
+        "06:25;06:25;Gipsy Hill",
+        "06:28;06:28;West Norwood",
+        "06:32;06:32;Tulse Hill",
+        "06:35;06:36;North Dulwich",
+        "06:38;06:38;East Dulwich",
+        "06:41;06:41;Peckham Rye",
+        "06:43;06:43;Queens Road Peckham",
+        "06:46;06:46;South Bermondsey",
+        "06:47;Fer;107-N5"
+      ],
+      "times": [
+        "00:00"
+      ]
     }
   ]
 }

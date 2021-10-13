@@ -30,6 +30,4 @@
 - LO to Sydenham DONE
 
 ## Other one-off services
-- 2H06 Crystal Palace to London Bridge (https://www.realtimetrains.co.uk/service/gb-nr:L80739/2021-10-11/detailed)
-- 5Y93 London Blackfriars to London Victoria (https://www.realtimetrains.co.uk/service/gb-nr:C16775/2021-10-11/detailed)
-- 9Y05 London Blackfriars to Sevenoaks (https://www.realtimetrains.co.uk/service/gb-nr:L67225/2021-10-11/detailed)
+- 2H06 Crystal Palace to London Bridge NONE
