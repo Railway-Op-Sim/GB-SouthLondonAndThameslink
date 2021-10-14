@@ -1,26 +1,29 @@
-# Project Title
+# South London and Thameslink
 
-*About the project goes here*
+This project contains some commuter lines in South London, generally, those nested within the two branches of the Brighton Main Line.
 
-You could include:
-- Some history to the route.
-- What stations are included?
-- The type of services the route has. (Freight/Passenger)
+Services along the routes is made up of:
+- High-Frequency London Overground services, both via Denmark Hill and to/from Crystal Palace.
+- Commuter Southeastern and Southern services via Tulse Hill and Herne Hill.
+- Express Southeastern services to Kent, via Herne Hill.
+- Thameslink services from Blackfriars to the South.
 
 ## Simulation
 
-The timetable runs from 0558 to about 1200.
+The timetable runs from 0558 to about 1200. Below are a few tips that you may find useful for operating this route.
+
+A session file is included in the download, which contains a few extra "blue" routes set.
 
 ### Some tips for Operation
 
 - Check SE services via Nunhead as some go via Clapham High Street and on the LO lines.
 - Double check which element is required for the Wandsworth portal, some SE services need the central (reversible) portal.
+- Several services have long wait times at some stations. Do not hesitate to delay these if needed.
 
 ## Development
 
-*This section is optional though highly recommended*
+This project is open for contributions on the ROS GitHub organisation. If you would like to contribute, then feel free to view the repository here:
 
-If your route is open to contribution on the ROS GitHub, then it may be a good idea to:
-- Include a link to your project on GitHub.
-- Include any information about what could be built upon in this route.
-- Tell the reader where they can go to get help if they want to contribute.
+[https://github.com/Railway-Op-Sim/GB-SouthLondonAndThameslink](https://github.com/Railway-Op-Sim/GB-SouthLondonAndThameslink)
+
+If you have any questions, please get in touch on Discord.

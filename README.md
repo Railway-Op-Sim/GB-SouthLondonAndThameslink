@@ -13,7 +13,7 @@ A route covering many of the commuter lines in South London, including the Thame
 | Speed Limits | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 | Distances | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 | Timetable | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
-| Documentation | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
+| Documentation | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 
 
 ## Data Sources
