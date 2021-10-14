@@ -8,4 +8,4 @@ display_name = "South London and Thameslink"
 difficulty = 3
 factual = true
 author = "Daniel Gill"
-contributors = []
+contributors = [ "Daniel-Gill",]
