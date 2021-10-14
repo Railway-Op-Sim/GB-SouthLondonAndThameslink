@@ -24,10 +24,10 @@
 - SN to Bridge DONE
 
 ## Crystal Palace
-- SN from West Croydon DON
+- SN from West Croydon DONE
 - SN to West Croydon DONE
 - LO from Sydenham DONE
 - LO to Sydenham DONE
 
 ## Other one-off services
-- 2H06 Crystal Palace to London Bridge NONE
+- 2H06 Crystal Palace to London Bridge DONE
