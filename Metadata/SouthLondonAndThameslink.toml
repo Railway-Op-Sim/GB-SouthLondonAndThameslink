@@ -1,6 +1,6 @@
 rly_file = "SouthLondonAndThameslink.rly"
 ttb_files = [ "SouthLondonAndThameslink.ttb",]
-ssn_files = []
+ssn_files = [ "SouthLondonAndThameslink.ssn",]
 country_code = "GB"
 name = "South London and Thameslink"
 description = "A route covering many of the commuter lines in South London, including the Thameslink route as far as Blackfriars."
@@ -9,3 +9,6 @@ difficulty = 3
 factual = true
 author = "Daniel Gill"
 contributors = [ "Daniel-Gill",]
+img_files = [ "SouthLondonAndThameslink.bmp",]
+doc_files = [ "README.pdf", "README.md",]
+release_date = "2022-03-04"
